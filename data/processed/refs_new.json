@@ -1,0 +1,779 @@
+{
+ "10.1016/s0006-3495(01)76033-x": {
+  "crossref": 200,
+  "title": "Anisotropy of Fluctuation Dynamics of Proteins with an Elastic Network Model",
+  "container": "Biophysical Journal",
+  "year": 2001,
+  "volume": "80",
+  "issue": "1",
+  "page": "505-515",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Atilgan",
+    "A.R."
+   ],
+   [
+    "Durell",
+    "S.R."
+   ],
+   [
+    "Jernigan",
+    "R.L."
+   ],
+   [
+    "Demirel",
+    "M.C."
+   ],
+   [
+    "Keskin",
+    "O."
+   ],
+   [
+    "Bahar",
+    "I."
+   ]
+  ],
+  "pmid": "11159421",
+  "pubmed_checked": true,
+  "year_print": 2001,
+  "year_online": null
+ },
+ "10.1038/embor.2009.126": {
+  "crossref": 200,
+  "title": "Structural basis for recruitment of BRCA2 by PALB2",
+  "container": "The EMBO Reports",
+  "year": 2009,
+  "volume": "10",
+  "issue": "9",
+  "page": "990-996",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Oliver",
+    "Antony W"
+   ],
+   [
+    "Swift",
+    "Sally"
+   ],
+   [
+    "Lord",
+    "Christopher J"
+   ],
+   [
+    "Ashworth",
+    "Alan"
+   ],
+   [
+    "Pearl",
+    "Laurence H"
+   ]
+  ],
+  "pmid": 19609323,
+  "year_print": 2009,
+  "year_online": 2009
+ },
+ "10.1103/physrevlett.77.1905": {
+  "crossref": 200,
+  "title": "Large Amplitude Elastic Motions in Proteins from a Single-Parameter, Atomic Analysis",
+  "container": "Physical Review Letters",
+  "year": 1996,
+  "volume": "77",
+  "issue": "9",
+  "page": "1905-1908",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Tirion",
+    "Monique M."
+   ]
+  ],
+  "pmid": "10063201",
+  "pubmed_checked": true,
+  "year_print": null,
+  "year_online": 1996
+ },
+ "10.1016/s1359-0278(97)00024-2": {
+  "crossref": 200,
+  "title": "Direct evaluation of thermal fluctuations in proteins using a single-parameter harmonic potential",
+  "container": "Folding and Design",
+  "year": 1997,
+  "volume": "2",
+  "issue": "3",
+  "page": "173-181",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Bahar",
+    "Ivet"
+   ],
+   [
+    "Atilgan",
+    "Ali Rana"
+   ],
+   [
+    "Erman",
+    "Burak"
+   ]
+  ],
+  "pmid": "9218955",
+  "pubmed_checked": true,
+  "year_print": 1997,
+  "year_online": null
+ },
+ "10.1093/nar/gku411": {
+  "crossref": 200,
+  "title": "DUET: a server for predicting effects of mutations on protein stability using an integrated computational approach",
+  "container": "Nucleic Acids Research",
+  "year": 2014,
+  "volume": "42",
+  "issue": "W1",
+  "page": "W314-W319",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Pires",
+    "D. E. V."
+   ],
+   [
+    "Ascher",
+    "D. B."
+   ],
+   [
+    "Blundell",
+    "T. L."
+   ]
+  ],
+  "pmid": 24829462,
+  "year_print": 2014,
+  "year_online": 2014
+ },
+ "10.1093/bioinformatics/11.6.681": {
+  "crossref": 200,
+  "title": "SOPMA: significant improvements in protein secondary structure prediction by consensus prediction from multiple alignments",
+  "container": "Bioinformatics",
+  "year": 1995,
+  "volume": "11",
+  "issue": "6",
+  "page": "681-684",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Geourjon",
+    "C."
+   ],
+   [
+    "Del\u00e9age",
+    "G."
+   ]
+  ],
+  "pmid": "8808585",
+  "pubmed_checked": true,
+  "year_print": 1995,
+  "year_online": null
+ },
+ "10.1093/nar/gky427": {
+  "crossref": 200,
+  "title": "SWISS-MODEL: homology modelling of protein structures and complexes",
+  "container": "Nucleic Acids Research",
+  "year": 2018,
+  "volume": "46",
+  "issue": "W1",
+  "page": "W296-W303",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Waterhouse",
+    "Andrew"
+   ],
+   [
+    "Bertoni",
+    "Martino"
+   ],
+   [
+    "Bienert",
+    "Stefan"
+   ],
+   [
+    "Studer",
+    "Gabriel"
+   ],
+   [
+    "Tauriello",
+    "Gerardo"
+   ],
+   [
+    "Gumienny",
+    "Rafal"
+   ],
+   [
+    "Heer",
+    "Florian T"
+   ],
+   [
+    "de\u00a0Beer",
+    "Tjaart A\u00a0P"
+   ],
+   [
+    "Rempfer",
+    "Christine"
+   ],
+   [
+    "Bordoli",
+    "Lorenza"
+   ],
+   [
+    "Lepore",
+    "Rosalba"
+   ],
+   [
+    "Schwede",
+    "Torsten"
+   ]
+  ],
+  "pmid": 29788355,
+  "year_print": 2018,
+  "year_online": 2018
+ },
+ "10.1093/nar/gkab1061": {
+  "crossref": 200,
+  "title": "AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models",
+  "container": "Nucleic Acids Research",
+  "year": 2021,
+  "volume": "50",
+  "issue": "D1",
+  "page": "D439-D444",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Varadi",
+    "Mihaly"
+   ],
+   [
+    "Anyango",
+    "Stephen"
+   ],
+   [
+    "Deshpande",
+    "Mandar"
+   ],
+   [
+    "Nair",
+    "Sreenath"
+   ],
+   [
+    "Natassia",
+    "Cindy"
+   ],
+   [
+    "Yordanova",
+    "Galabina"
+   ],
+   [
+    "Yuan",
+    "David"
+   ],
+   [
+    "Stroe",
+    "Oana"
+   ],
+   [
+    "Wood",
+    "Gemma"
+   ],
+   [
+    "Laydon",
+    "Agata"
+   ],
+   [
+    "\u017d\u00eddek",
+    "Augustin"
+   ],
+   [
+    "Green",
+    "Tim"
+   ],
+   [
+    "Tunyasuvunakool",
+    "Kathryn"
+   ],
+   [
+    "Petersen",
+    "Stig"
+   ],
+   [
+    "Jumper",
+    "John"
+   ],
+   [
+    "Clancy",
+    "Ellen"
+   ],
+   [
+    "Green",
+    "Richard"
+   ],
+   [
+    "Vora",
+    "Ankur"
+   ],
+   [
+    "Lutfi",
+    "Mira"
+   ],
+   [
+    "Figurnov",
+    "Michael"
+   ],
+   [
+    "Cowie",
+    "Andrew"
+   ],
+   [
+    "Hobbs",
+    "Nicole"
+   ],
+   [
+    "Kohli",
+    "Pushmeet"
+   ],
+   [
+    "Kleywegt",
+    "Gerard"
+   ],
+   [
+    "Birney",
+    "Ewan"
+   ],
+   [
+    "Hassabis",
+    "Demis"
+   ],
+   [
+    "Velankar",
+    "Sameer"
+   ]
+  ],
+  "pmid": 34791371,
+  "year_print": 2022,
+  "year_online": 2021
+ },
+ "10.1093/nar/gkz972": {
+  "crossref": 200,
+  "title": "ClinVar: improvements to accessing data",
+  "container": "Nucleic Acids Research",
+  "year": 2019,
+  "volume": "48",
+  "issue": "D1",
+  "page": "D835-D844",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Landrum",
+    "Melissa J"
+   ],
+   [
+    "Chitipiralla",
+    "Shanmuga"
+   ],
+   [
+    "Brown",
+    "Garth R"
+   ],
+   [
+    "Chen",
+    "Chao"
+   ],
+   [
+    "Gu",
+    "Baoshan"
+   ],
+   [
+    "Hart",
+    "Jennifer"
+   ],
+   [
+    "Hoffman",
+    "Douglas"
+   ],
+   [
+    "Jang",
+    "Wonhee"
+   ],
+   [
+    "Kaur",
+    "Kuljeet"
+   ],
+   [
+    "Liu",
+    "Chunlei"
+   ],
+   [
+    "Lyoshin",
+    "Vitaly"
+   ],
+   [
+    "Maddipatla",
+    "Zenith"
+   ],
+   [
+    "Maiti",
+    "Rama"
+   ],
+   [
+    "Mitchell",
+    "Joseph"
+   ],
+   [
+    "O\u2019Leary",
+    "Nuala"
+   ],
+   [
+    "Riley",
+    "George R"
+   ],
+   [
+    "Shi",
+    "Wenyao"
+   ],
+   [
+    "Zhou",
+    "George"
+   ],
+   [
+    "Schneider",
+    "Valerie"
+   ],
+   [
+    "Maglott",
+    "Donna"
+   ],
+   [
+    "Holmes",
+    "J Bradley"
+   ],
+   [
+    "Kattman",
+    "Brandi L"
+   ]
+  ],
+  "pmid": 31777943,
+  "year_print": 2020,
+  "year_online": 2019
+ },
+ "10.1093/bioinformatics/btq662": {
+  "crossref": 200,
+  "title": "Toward the estimation of the absolute quality of individual protein structure models",
+  "container": "Bioinformatics",
+  "year": 2010,
+  "volume": "27",
+  "issue": "3",
+  "page": "343-350",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Benkert",
+    "Pascal"
+   ],
+   [
+    "Biasini",
+    "Marco"
+   ],
+   [
+    "Schwede",
+    "Torsten"
+   ]
+  ],
+  "pmid": 21134891,
+  "year_print": 2011,
+  "year_online": 2010
+ },
+ "10.1107/s0021889892009944": {
+  "crossref": 200,
+  "title": "PROCHECK: a program to check the stereochemical quality of protein structures",
+  "container": "Journal of Applied Crystallography",
+  "year": 1993,
+  "volume": "26",
+  "issue": "2",
+  "page": "283-291",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Laskowski",
+    "R. A."
+   ],
+   [
+    "MacArthur",
+    "M. W."
+   ],
+   [
+    "Moss",
+    "D. S."
+   ],
+   [
+    "Thornton",
+    "J. M."
+   ]
+  ],
+  "pmid": null,
+  "pubmed_checked": true,
+  "year_print": 1993,
+  "year_online": null
+ },
+ "10.1093/bioinformatics/btl448": {
+  "crossref": 200,
+  "title": "Anisotropic network model: systematic evaluation and a new web interface",
+  "container": "Bioinformatics",
+  "year": 2006,
+  "volume": "22",
+  "issue": "21",
+  "page": "2619-2627",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Eyal",
+    "Eran"
+   ],
+   [
+    "Yang",
+    "Lee-Wei"
+   ],
+   [
+    "Bahar",
+    "Ivet"
+   ]
+  ],
+  "pmid": "16928735",
+  "pubmed_checked": true,
+  "year_print": 2006,
+  "year_online": 2006
+ },
+ "10.1021/cr900095e": {
+  "crossref": 200,
+  "title": "Normal Mode Analysis of Biomolecular Structures: Functional Mechanisms of Membrane Proteins",
+  "container": "Chemical Reviews",
+  "year": 2009,
+  "volume": "110",
+  "issue": "3",
+  "page": "1463-1497",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Bahar",
+    "Ivet"
+   ],
+   [
+    "Lezon",
+    "Timothy R."
+   ],
+   [
+    "Bakan",
+    "Ahmet"
+   ],
+   [
+    "Shrivastava",
+    "Indira H."
+   ]
+  ],
+  "pmid": 19785456,
+  "year_print": 2010,
+  "year_online": 2009
+ },
+ "10.1002/prot.24428": {
+  "crossref": 200,
+  "title": "Docking, scoring, and affinity prediction in CAPRI",
+  "container": "Proteins: Structure, Function, and Bioinformatics",
+  "year": 2013,
+  "volume": "81",
+  "issue": "12",
+  "page": "2082-2095",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Lensink",
+    "Marc F."
+   ],
+   [
+    "Wodak",
+    "Shoshana J."
+   ]
+  ],
+  "pmid": "24115211",
+  "pubmed_checked": true,
+  "year_print": 2013,
+  "year_online": 2013
+ },
+ "10.1038/onc.2013.421": {
+  "crossref": 200,
+  "title": "Breast cancer-associated missense mutants of the PALB2 WD40 domain, which directly binds RAD51C, RAD51 and BRCA2, disrupt DNA repair",
+  "container": "Oncogene",
+  "year": 2013,
+  "volume": "33",
+  "issue": "40",
+  "page": "4803-4812",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Park",
+    "J-Y"
+   ],
+   [
+    "Singh",
+    "T R"
+   ],
+   [
+    "Nassar",
+    "N"
+   ],
+   [
+    "Zhang",
+    "F"
+   ],
+   [
+    "Freund",
+    "M"
+   ],
+   [
+    "Hanenberg",
+    "H"
+   ],
+   [
+    "Meetei",
+    "A R"
+   ],
+   [
+    "Andreassen",
+    "P R"
+   ]
+  ],
+  "pmid": 24141787,
+  "year_print": 2014,
+  "year_online": 2013
+ },
+ "10.1016/S0022-2836(05)80360-2": {
+  "crossref": 200,
+  "title": "Basic local alignment search tool",
+  "container": "Journal of Molecular Biology",
+  "year": 1990,
+  "volume": "215",
+  "issue": "3",
+  "page": "403-410",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Altschul",
+    "Stephen F."
+   ],
+   [
+    "Gish",
+    "Warren"
+   ],
+   [
+    "Miller",
+    "Webb"
+   ],
+   [
+    "Myers",
+    "Eugene W."
+   ],
+   [
+    "Lipman",
+    "David J."
+   ]
+  ],
+  "pmid": "2231712",
+  "pubmed_checked": true,
+  "year_print": 1990,
+  "year_online": null
+ },
+ "10.1006/jmbi.1993.1626": {
+  "crossref": 200,
+  "title": "Comparative Protein Modelling by Satisfaction of Spatial Restraints",
+  "container": "Journal of Molecular Biology",
+  "year": 1993,
+  "volume": "234",
+  "issue": "3",
+  "page": "779-815",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "\u0160ali",
+    "Andrej"
+   ],
+   [
+    "Blundell",
+    "Tom L."
+   ]
+  ],
+  "pmid": "8254673",
+  "pubmed_checked": true,
+  "year_print": 1993,
+  "year_online": null
+ },
+ "10.1002/j.1460-2075.1986.tb04288.x": {
+  "crossref": 200,
+  "title": "The relation between the divergence of sequence and structure in proteins.",
+  "container": "The EMBO Journal",
+  "year": 1986,
+  "volume": "5",
+  "issue": "4",
+  "page": "823-826",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Chothia",
+    "C."
+   ],
+   [
+    "Lesk",
+    "A.M."
+   ]
+  ],
+  "pmid": 3709526,
+  "year_print": 1986,
+  "year_online": 1986
+ },
+ "10.1371/journal.pcbi.1000544": {
+  "crossref": 200,
+  "title": "Perturbation-Response Scanning Reveals Ligand Entry-Exit Mechanisms of Ferric Binding Protein",
+  "container": "PLoS Computational Biology",
+  "year": 2009,
+  "volume": "5",
+  "issue": "10",
+  "page": "e1000544",
+  "article": null,
+  "type": "journal-article",
+  "authors": [
+   [
+    "Atilgan",
+    "Canan"
+   ],
+   [
+    "Atilgan",
+    "Ali Rana"
+   ]
+  ],
+  "pmid": 19851447,
+  "year_print": null,
+  "year_online": 2009
+ }
+}
